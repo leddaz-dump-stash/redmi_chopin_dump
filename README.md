@@ -1,0 +1,14 @@
+# missi_phoneext4_global-user 13 TP1A.220624.014 V14.0.3.0.TKPMIXM release-keys
+- manufacturer: xiaomi
+- platform: mt6893
+- codename: chopin
+- flavor: missi_phoneext4_global-user
+- release: 13
+- id: TP1A.220624.014
+- incremental: V14.0.3.0.TKPMIXM
+- tags: release-keys
+- fingerprint: redmi/vnd_chopin/chopin:12/SP1A.210812.016/V14.0.3.0.TKPMIXM:user/release-keys
+- is_ab: true
+- brand: redmi
+- branch: missi_phoneext4_global-user-13-TP1A.220624.014-V14.0.3.0.TKPMIXM-release-keys
+- repo: redmi_chopin_dump

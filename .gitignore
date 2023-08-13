@@ -1,0 +1,12 @@
+product/app/Messages/Messages.apk
+product/app/TrichromeLibrary64/TrichromeLibrary64.apk
+product/priv-app/ExtraPhotoGlobal/ExtraPhotoGlobal.apk
+product/priv-app/Gallery_T_Global/Gallery_T_Global.apk
+product/priv-app/Velvet/Velvet.apk
+product/priv-app/GmsCore/GmsCore.apk
+product/data-app/MIBrowserGlobal_removable/MIBrowserGlobal_removable.apk
+product/data-app/MIMediaEditorGlobal/MIMediaEditorGlobal.apk.xz
+product/data-app/MIMediaEditorGlobal/MIMediaEditorGlobal.apk
+boot.img
+system_ext/apex/com.android.vndk.v30.apex
+system_ext/priv-app/Settings/Settings.apk
